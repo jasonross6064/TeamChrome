@@ -1,2 +1,2 @@
 # TeamChrome
-# Testing
+Hotel management software
